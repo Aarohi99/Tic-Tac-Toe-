@@ -1,0 +1,2 @@
+# Tic-Tac-Toe-
+Tic-tac-toe (American English), noughts and crosses (Commonwealth English), or Xs and Os/“X'y O'sies” (Ireland), is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. It is a game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does.
